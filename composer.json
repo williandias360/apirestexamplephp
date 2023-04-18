@@ -3,7 +3,7 @@
         "doctrine/orm": "^2.7",
         "symfony/yaml": "2.*",
         "slim/slim": "4.*",
-        "slim/psr7": "^0.6.0"
+        "slim/psr7": "^1.6.1"
     },
     "autoload": {
         "psr-0": {
